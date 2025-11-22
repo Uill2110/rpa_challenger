@@ -6,7 +6,7 @@ This project automates the process of adding candidates to the OrangeHRM demo we
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Uill2110/rpa_challenger.git
    cd rpa_challenge
    ```
 
