@@ -1,0 +1,6 @@
+selenium
+python-dotenv
+loguru
+requests
+webdriver-manager
+pandas
